@@ -24,3 +24,7 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 	You have to have multiple files on different computers then when you would want to merge different versions you would have to do it manual line by line. 
 	Easier: Easier to talk one on one with someone about updates and experimental projects
 	Harder: Merging, viewing changes, and changing things logically, keeping up with different changes, can't revert back to a pervious version.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	If more than one collabortors are working on a project and are working on different updates or even the same updates. The person/team in charge of the project would be able to check if there are any conflicts between the updates or collaborations and merge them when they are able to.
